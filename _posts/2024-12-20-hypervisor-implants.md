@@ -1,4 +1,4 @@
-## A basic overview of Hypervisor Implants
+## Introduction to Hypervisor Implants
 Hypervisors are pieces of software used to manage VMs (Virtual Machines) or Guest machines on a Host machine.
 The main difference between a hypervisor and an emulator is that the former allows the guest machine to execute *most* instructions on the hardware of the host machine by translating the guest's instructions into the native machine code of the host - this provides superior performance compared to emulators, especially when it comes to tasks that are computationally intensive.
 
