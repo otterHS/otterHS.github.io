@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+I dont know how you got on this website but you shouldn't be here.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Go away.
